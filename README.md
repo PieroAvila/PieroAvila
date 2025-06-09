@@ -5,7 +5,7 @@
   - NextJS
   - NestJS
     
-- 👯 I’m looking to collaborate on **open sources projects**.
+- 🤝 I’m looking to collaborate on **open sources projects**.
 
 - 👨‍💻 All of my projects are available [@PieroAvila](https://github.com/PieroAvila?tab=repositories).
 
